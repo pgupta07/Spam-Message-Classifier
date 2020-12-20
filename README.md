@@ -5,3 +5,6 @@ We tried the below combinations for Spam Classification
 2. TFIDF Vectorizer with WordNet Lemmatizer
 
 # CountVectorizer with Porter Stemmer and Max_features = 2000 with MultinomialNB gave us the highest accuracy
+
+# Deployed on Heroku
+URL - https://nlp-spam-message-classifier.herokuapp.com/
